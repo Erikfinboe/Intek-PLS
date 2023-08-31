@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile CurrentProfile="(Default)" GeneratedClassNamespace="winKCdrill2.My" GeneratedClassName="MySettings" xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Driver1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Driver no 1</Value>
+    </Setting>
+    <Setting Name="Driver2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Driver no 2</Value>
+    </Setting>
+    <Setting Name="Driver3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Driver no 3</Value>
+    </Setting>
+    <Setting Name="Driver4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Driver no 4</Value>
+    </Setting>
+    <Setting Name="ValdDriver" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Area" Type="System.String" Scope="User">
+      <Value Profile="(Default)">No Area Chosen</Value>
+    </Setting>
+    <Setting Name="Diameter" Type="System.String" Scope="User">
+      <Value Profile="(Default)">600</Value>
+    </Setting>
+    <Setting Name="LastColumn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">11</Value>
+    </Setting>
+    <Setting Name="ComPortVald" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM1</Value>
+    </Setting>
+    <Setting Name="HeightGround" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="DjupFil" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Project\nr.csv</Value>
+    </Setting>
+    <Setting Name="ProjectBib" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Project</Value>
+    </Setting>
+    <Setting Name="Installer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="Novatron" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="NovatronCom" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM4</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

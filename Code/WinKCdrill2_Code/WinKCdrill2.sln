@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinKCdrill2", "WinKCdrill2\WinKCdrill2.csproj", "{F4BEF3D0-1B31-47A6-885E-5398C0727B87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4BEF3D0-1B31-47A6-885E-5398C0727B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BEF3D0-1B31-47A6-885E-5398C0727B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4BEF3D0-1B31-47A6-885E-5398C0727B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4BEF3D0-1B31-47A6-885E-5398C0727B87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
